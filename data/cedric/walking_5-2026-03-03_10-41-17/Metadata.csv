@@ -1,0 +1,2 @@
+version,device name,recording epoch time,recording time,recording timezone,platform,appVersion,device id,sensors,sampleRateMs,standardisation,platform version,fusion
+3,iPhone 17 Pro,1772534477194,2026-03-03_10-41-17,Africa/Kigali,ios,1.54,18fa62d7-4d89-471d-84ec-57514b0f9b53,Accelerometer|Gyroscope|Annotation|GyroscopeUncalibrated|AccelerometerUncalibrated,10|10||10|10,false,26.3,system
